@@ -8,6 +8,7 @@ import Contact from './pages/Contact'
 
 function App() {
   return (
+dev-geek
     <Router>
       <Routes>
         <Route path='/' element={<Home/>}/>
@@ -17,7 +18,6 @@ function App() {
         <Route path='*' element={<NotFound/>}/>
       </Routes>
     </Router>
-    
   )
 }
 
