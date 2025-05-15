@@ -1,4 +1,7 @@
 # React + Vite
+# what is this happening 
+# lkdsjflksjdflk jslkdfjslkdfjslkfjalkfjslkfj kddjflkasdjflk 
+
 # another push test
 # new edit push
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
